@@ -13,7 +13,7 @@ const Departments = () => {
 
     return (
         <div>
-            <h2 className='title text-center my-3'>Our Departments</h2>
+            <h2 className='text-center my-3'>Our Departments</h2>
             <p className='text-center'>We have several enriched departments to ensure you a proper treatment.</p>
             {
                 departments.map(department => <DepartmentsInfo
