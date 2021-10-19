@@ -19,7 +19,7 @@ This website represent a wellknow Diagonstic center names as MEDICENTER. It is e
     * Our website will provide you with sufficent information about MEDICENTER
     * You can check if your desired doctor is available or not via this site.
     * This website is responsive for all types of devices (e.g mobile,laptop and pc)
-    *It has an user friendly interface.
-    *we are connected with you 24/7 through this website
+    * It has an user friendly interface.
+    * we are connected with you 24/7 through this website
 
-Thank You!
+                                    Thank You!
