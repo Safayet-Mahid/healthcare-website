@@ -8,13 +8,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 20px;
 }
 .department-info {
 }
 .information {
   background-color: #dedede8e;
   padding: 20px;
-  /* margin: 15px; */
+  margin-bottom: 10px;
   transition: all 0.5s;
 }
 .information h6 {
