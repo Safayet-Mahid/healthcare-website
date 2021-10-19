@@ -1,0 +1,136 @@
+[
+    {
+      "id": 1,
+      "title": "QUALIFIED DOCTORS",
+      "doctor": "DR. Bret Anderson",
+      "email": "Sincere@april.biz",
+      "price": "150",
+      "days": "3",
+      "phone": "1-780-736-8031 x56442",
+      "serviceDEscription": "Operation theatres at Liaquat National Hospital are the backbone of the hospital. We are one of the leading private hospitals with state-of-the-art, fully equipped, international standard theatres having separate zone concept, divided in sterile zone (restricted zone), semi restricted zone and non-restricted zone.",
+      "image": "../images/003-doctor.png",
+      "serviceImage": "https://www.drbatras.co.uk/themes/custom/batra_uae/images/our-doctor-spotlight-mob.jpg",
+      "doctorPhoto": "https://media.istockphoto.com/photos/portrait-of-mature-male-doctor-wearing-white-coat-standing-in-picture-id1203995945?k=20&m=1203995945&s=612x612&w=0&h=g0_ioNezBqP0NXrR_36-A5NDHIR0nLabFFrAQVk4PhA=",
+      "doctorDescription": "Dr. Bret Anderson is a Cardiology & Medicine Specialist doctor in Chittagong. His qualification is MBBS, D-CARD, FCCP (USA). He is working as a Cardiology & Medicine Specialist doctor in Chittagong Medical College & Hospital."
+    },
+    {
+      "id": 2,
+      "title": "MEDICAL COUNSELING",
+      "doctor": "DR. Kiara dessy",
+      "email": "Sincere@march.biz",
+      "price": "125",
+      "days": "3",
+      "phone": "1-260-364-6951 x67856",
+      "serviceDEscription": "Some patients who are home alone may require a companion to provide comfort and supervision. Some companions may also perform household duties.",
+      "image": "../images/006-couple-counseling.png",
+      "serviceImage": "https://bohatala.com/wp-content/uploads/2017/07/medical-counseling.jpg",
+      "doctorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDS69XwHrzjRbpPgBd326bUMDCfJ1amo5cdZ4izY9Ii31kGPyyIhDNptz-NkvZmEhVXnA&usqp=CAU",
+      "doctorDescription": "Dr. Kiara dessy is a Cardiology & Medicine Specialist doctor in Chittagong. His qualification is MBBS, D-CARD, FCCP (USA). He is working as a Cardiology & Medicine Specialist doctor in Chittagong Medical College & Hospital. "
+
+    },
+    {
+      "id": 3,
+      "title": "BLOOD BANK",
+      "doctor": "DR. Mike Honegun",
+      "email": "Sincere@june.biz",
+      "price": "625",
+      "days": "5/6",
+      "phone": "1-964-736-4695 x65696",
+      "serviceDEscription": "One of the biggest things athletes learn from swimming more than nearly any other sport is breath control. Little by little, swimmers progress and increase their lung capacity – which in turn means your young athlete will be able to play longer before running out of breath.",
+     
+      "image": "../images/004-blood-bank.png",
+      "serviceImage": "https://www.hopkinsmedicine.org/-/media/images/health/2_-treatment/pathology/blood-banking-teaser.ashx",
+      "doctorPhoto": "https://europeansting.files.wordpress.com/2020/04/young-doctors_.jpeg?w=610",
+      "doctorDescription": "Dr. Mike Honegun is a Cardiology & Medicine Specialist doctor in Chittagong. His qualification is MBBS, D-CARD, FCCP (USA). He is working as a Cardiology & Medicine Specialist doctor in Chittagong Medical College & Hospital."
+
+      
+    },
+    {
+      "id": 4,
+      "title": "OPERATION THEATER",
+      "doctor": "DR. Bobby Parley",
+      "email": "Sincere@august.biz",
+      "price": "425",
+      "days": "2",
+      "phone": "1-322-465-2345 x79568",
+      "serviceDEscription": "Operation theatres at Liaquat National Hospital are the backbone of the hospital. We are one of the leading private hospitals with state-of-the-art, fully equipped, international standard theatres having separate zone concept, divided in sterile zone (restricted zone), semi restricted zone and non-restricted zone.",
+      "image": "../images/002-operation.png",
+      "serviceImage": "https://ichef.bbci.co.uk/news/1024/media/images/70543000/jpg/_70543869_optheatre.jpg",
+      "doctorPhoto": "https://media.istockphoto.com/photos/portrait-of-a-confident-young-doctor-using-a-digital-tablet-picture-id1267013720?b=1&k=20&m=1267013720&s=170667a&w=0&h=fplvckjYyHoZIQ6O6p01dVF7pdrBYkBTP4rrhMx58v8=",
+      "doctorDescription": "Dr. Bobby Parley is a Cardiology & Medicine Specialist doctor in Chittagong. His qualification is MBBS, D-CARD, FCCP (USA). He is working as a Cardiology & Medicine Specialist doctor in Chittagong Medical College & Hospital."
+
+    },
+    {
+      "id": 5,
+      "title": "FREE MEDICINE",
+      "doctor": "DR. Penny Oleksiak",
+      "email": "Sincere@august.biz",
+      "price": "305",
+      "days": "4",
+      "phone": "1-322-465-2345 x79568",
+      "serviceDEscription": "The free medicines will be generics. Doctors working in health facilities will be required to prescribe generic drugs listed on state-determined “essential drug lists” and face penalties if they fail or decline to do so, though the nature of those penalties have not yet been specified",
+      "image": "../images/007-pills.png",
+      "serviceImage": "https://images.pexels.com/photos/159211/headache-pain-pills-medication-159211.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "doctorPhoto": "https://www.middakotaclinic.com/uploads/59/iStock823893916_dcotor_welcome.jpg",
+      "doctorDescription": "Dr. Penny Oleksiak is a Cardiology & Medicine Specialist doctor in Chittagong. His qualification is MBBS, D-CARD, FCCP (USA). He is working as a Cardiology & Medicine Specialist doctor in Chittagong Medical College & Hospital."
+
+    },
+    {
+      "id": 6,
+      "title": "LABRATOTY and X-RAY IMAGING",
+      "doctor": "DR. John Riche",
+      "email": "Sincere@august.biz",
+      "price": "400",
+      "days": "3",
+      "phone": "1-322-465-2345 x79568",
+      "serviceDEscription": "Certain laboratory tests, such as blood and urine tests, can be performed in the comfort of the patient's home. In addition, portable X-ray machines allow lab technicians to perform this service at home.",
+      "image": "../images/001-x-ray.png",
+      "serviceImage": "https://ec.europa.eu/programmes/horizon2020/sites/default/files/newsroom/voxel_20843.jpg",
+      "doctorPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNzBptmWeeSaJg37L5ZLe7Uf-ZFrnNc3ZtSPZ-QVEqrUqruPgy_0ui_3b3zTHTi-gUPqc&usqp=CAU",
+      "doctorDescription": "Dr. John Riche is a Cardiology & Medicine Specialist doctor in Chittagong. His qualification is MBBS, D-CARD, FCCP (USA). He is working as a Cardiology & Medicine Specialist doctor in Chittagong Medical College & Hospital."
+
+    },
+    {
+      "id": 7,
+      "title": "PHARMACEUTICALS SERVICES",
+      "doctor": "DR. Jessica Wing",
+      "email": "Sincere@august.biz",
+      "price": "425",
+      "days": "2",
+      "phone": "1-322-465-2345 x79568",
+      "serviceDEscription": "Medicine and medical equipment can be delivered at home. If the patient needs it, training can be provided on how to take medicines or use of the equipment, including intravenous therapy.",
+      "image": "../images/008-flask.png",
+      "serviceImage": "https://www.tipt.com/wp-content/uploads/2019/04/march-7-quality-assurance-training.jpg",
+      "doctorPhoto": "https://media.istockphoto.com/photos/portrait-of-middle-aged-asian-female-doctor-standing-in-hospital-picture-id1271328839?b=1&k=20&m=1271328839&s=170667a&w=0&h=SIMzwoe8eu43OoY4M3ElZCMxW9MgDbZbVzMhh4VY2zM=",
+      "doctorDescription": "Dr. Jessica Wing is a Cardiology & Medicine Specialist doctor in Chittagong. His qualification is MBBS, D-CARD, FCCP (USA). He is working as a Cardiology & Medicine Specialist doctor in Chittagong Medical College & Hospital."
+
+    },
+    {
+      "id": 8,
+      "title": "GENERAL SURGERY",
+      "doctor": "DR. Drek Remore",
+      "email": "Sincere@august.biz",
+      "price": "425",
+      "days": "2",
+      "phone": "1-322-465-2345 x79568",
+      "serviceDEscription": "General Surgery is a discipline of surgery having a central core of knowledge embracing anatomy, physiology, metabolism, immunology, nutrition, pathology, wound healing, shock and resuscitation, intensive care, and neoplasia, which are common to all surgical specialties.",
+      "image": "../images/surgery.png",
+      "serviceImage": "https://cdn-prod.medicalnewstoday.com/content/images/articles/320/320620/doctors-performing-surgery.jpg",
+      "doctorPhoto": "https://storage.googleapis.com/afs-prod/media/41e6f5a203724663aac709db10d61ce3/3000.jpeg",
+      "doctorDescription": "Dr. Drek Remore is a Cardiology & Medicine Specialist doctor in Chittagong. His qualification is MBBS, D-CARD, FCCP (USA). He is working as a Cardiology & Medicine Specialist doctor in Chittagong Medical College & Hospital."
+    },
+    {
+      "id": 9,
+      "title": "AMBULENCE SERVICES",
+      "doctor": "DR. Morgan Azex",
+      "email": "Sincere@august.biz",
+      "price": "425",
+      "days": "2",
+      "phone": "1-322-465-2345 x79568",
+      "serviceDEscription": "There are companies that provide transportation to patients who require transportation to and from a medical facility for treatment or physical exams.",
+      "image": "../images/ambulance.png",
+      "serviceImage": "https://www.deshambulance.com/wp-content/uploads/2021/01/ICU-Ambulance-Rental-1.jpeg",
+      "doctorPhoto": "https://st3.depositphotos.com/10654668/i/600/depositphotos_138445604-stock-photo-male-doctor-in-hospital.jpg",
+      "doctorDescription": "Dr. Morgan Azex is a Cardiology & Medicine Specialist doctor in Chittagong. His qualification is MBBS, D-CARD, FCCP (USA). He is working as a Cardiology & Medicine Specialist doctor in Chittagong Medical College & Hospital."
+    }
+  ]

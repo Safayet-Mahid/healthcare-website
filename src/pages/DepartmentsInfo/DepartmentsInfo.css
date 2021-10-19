@@ -1,0 +1,36 @@
+.department-image img {
+  width: 100%;
+  object-fit: contain;
+}
+.department-image {
+  border-right: 2px solid lightskyblue;
+  padding-left: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.department-info {
+}
+.information {
+  background-color: #dedede8e;
+  padding: 20px;
+  margin: 15px;
+  transition: all 0.5s;
+}
+.information h6 {
+  font-weight: bold;
+}
+.information p {
+  color: rgb(109, 103, 103);
+}
+.top {
+  border-bottom: 2px solid lightskyblue;
+  padding: 25px 0;
+}
+.information:hover {
+  background-color: rgba(144, 238, 144, 0.836);
+  color: rgba(255, 255, 255, 0.815);
+}
+.information p:hover {
+  color: white;
+}

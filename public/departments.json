@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "name": "PLASTIC SURGERY DEPARTMENT",
+        "description": "Plastic surgery is a surgical specialty concerned with the restoration, reconstruction, or alteration of the human body. All plastic surgery is not necessarily cosmetic; and includes many types of reconstructive surgery.",
+        "image": "https://img.freepik.com/free-photo/old-doctor-uniform-standing-hall_1157-33383.jpg?size=626&ext=jpg",
+        "info": "Block B, 3rd floor",
+        "head": "DR. PAUL MERRIWEATHER",
+        "find": "See doctors in this department",
+        "appointment": "Call us or fill in a form"
+      },
+    {
+        "id": 2,
+        "name": "DENTAL DEPARTMENT",
+        "description": "A dental clinic is technically any place where dental services are rendered. However, most of the time when you hear this term used, you will find that a dental clinic has educational implications.",
+
+        "image": "https://yt3.ggpht.com/ytc/AKedOLQ-TfQ3t1-kxvAZ1P7eg7eS78fYMHfgiuFwbbph=s900-c-k-c0x00ffffff-no-rj",
+
+        "info": "Block A, 2nd floor",
+        "head": "DR. BERN MEGHPERN",
+        "find": "See doctors in this department",
+        "appointment": "Call us or fill in a form"
+      },
+    {
+        "id": 3,
+        "name": "PSYCOLOGICAL DEPARTMENT",
+        "description": "The mission of the Department of Psychology at the  is  to become leaders in the psychological sciences and in other professions.",
+
+        "image": "https://forum.facmedicine.com/data/MetaMirrorCache/7acc399b706f7132e81c4fd1054a0218.jpg",
+
+        "info": "Block B,4th floor",
+        "head": "DR. MARIA ROSAMOND",
+        "find": "See doctors in this department",
+        "appointment": "Call us or fill in a form"
+      }
+]
