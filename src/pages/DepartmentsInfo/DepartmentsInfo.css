@@ -4,7 +4,7 @@
 }
 .department-image {
   border-right: 2px solid lightskyblue;
-  padding-left: 20px;
+  /* padding-left: 20px; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -14,7 +14,7 @@
 .information {
   background-color: #dedede8e;
   padding: 20px;
-  margin: 15px;
+  /* margin: 15px; */
   transition: all 0.5s;
 }
 .information h6 {
@@ -25,7 +25,7 @@
 }
 .top {
   border-bottom: 2px solid lightskyblue;
-  padding: 25px 0;
+  /* padding: 10px 0; */
 }
 .information:hover {
   background-color: rgba(144, 238, 144, 0.836);
