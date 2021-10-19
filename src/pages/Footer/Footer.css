@@ -2,6 +2,7 @@ Footer {
   background-color: rgb(13, 19, 37);
   margin-top: 35px;
   overflow-x: hidden;
+  /* padding: 10px; */
 }
 
 .top-footer {
@@ -20,7 +21,7 @@ Footer {
 }
 .footer-coloum hr {
   border: 1px solid gold;
-  margin: 1em 0;
+  margin: 0.5em 0;
 }
 .top-footer li {
   list-style: none;

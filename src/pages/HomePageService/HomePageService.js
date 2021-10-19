@@ -12,7 +12,7 @@ const HomePageService = (props) => {
 
     return (
         <div>
-            <h3 className='text-center fw-bolder title t-color mb-3'>Our Services</h3>
+            <h3 className='text-center fw-bolder  t-color mb-3'>Our Services</h3>
             <p className='text-center t-color mb-5'>Defining and redefining the vision in its day to day process the mission was set to shift this clinic ,<br /> to a bigger and better space in view to cater some specific scarce treatment and services. </p>
 
             <div className='services container row'>

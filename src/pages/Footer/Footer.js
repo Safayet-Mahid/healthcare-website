@@ -10,7 +10,7 @@ const Footer = () => {
 
             <footer>
                 <div className="top-footer row justify-content-center">
-                    <div className="about-us footer-coloum col-lg-3 col-sm-8 col-md-5">
+                    <div className="about-us footer-coloum col-lg-3 col-sm-7 col-md-5">
                         <h4>About Us</h4>
                         <hr />
                         <p>We are one of the leading and traditional private hospitals located in  “GEC Circle” of Chittagong. The hospital started its journey in 1986. </p>
@@ -37,7 +37,7 @@ const Footer = () => {
                         </Router>
 
                     </div>
-                    <div className="instagram footer-coloum col-lg-3 col-sm-7 col-md-6">
+                    <div className="instagram footer-coloum col-lg-3 col-sm-6 col-md-6">
                         <h4>Instagram</h4>
                         <hr />
                         <div className="insta-photo">
