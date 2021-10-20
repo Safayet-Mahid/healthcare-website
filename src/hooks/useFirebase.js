@@ -28,7 +28,6 @@ const useFirebase = () => {
             return;
         }
         isLogin ? processLogin(email, password) : registerNewUser(email, password)
-        // console.log(email, password);
     }
     const processLogin = (e) => {
         e.preventDefault();
@@ -116,6 +115,8 @@ const useFirebase = () => {
         isLoading,
         signInUsingGoogle,
         logOut,
+        setUser,
+        setIsLoading,
         handleRegistration,
         handleEmailChange,
         handlePasswordChange,
@@ -124,9 +125,8 @@ const useFirebase = () => {
         toggleLogin,
         handleResetPassword,
         handleNameChange,
-        setIsLoading,
-        setUser,
-        processLogin
+        processLogin,
+
     }
 }
 export default useFirebase;

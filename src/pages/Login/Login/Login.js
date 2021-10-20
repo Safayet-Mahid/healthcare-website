@@ -4,7 +4,7 @@ import { useHistory, useLocation } from 'react-router';
 import useAuth from '../../../hooks/useAuth';
 
 const Login = () => {
-    const { signInUsingGoogle, handleRegistration, handleEmailChange, handlePasswordChange, error, isLogin, toggleLogin, handleResetPassword, handleNameChange, setUser, processLogin, setIsLoading } = useAuth();
+    const { signInUsingGoogle, handleEmailChange, handlePasswordChange, error, handleResetPassword, setUser, processLogin, setIsLoading } = useAuth();
     const location = useLocation();
     const history = useHistory();
     const redirect_uri = location.state?.from || '/home'

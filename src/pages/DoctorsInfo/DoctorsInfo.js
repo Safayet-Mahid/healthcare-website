@@ -2,7 +2,7 @@ import React from 'react';
 import { Button, Card } from 'react-bootstrap';
 
 const DoctorsInfo = ({ doctor }) => {
-    const { doctorPhoto, id, phone, doctorDescription } = doctor;
+    // const { doctorPhoto, id, phone, doctorDescription } = doctor;
     return (
 
         <Card className='doctor-card m-2 m-md-1 col-lg-4 col-md-5 col-sm-7' key={doctor.id}>

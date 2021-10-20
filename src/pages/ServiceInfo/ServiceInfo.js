@@ -18,7 +18,7 @@ const ServiceInfo = () => {
         const foundDetails = details.find
             (service => service.id === parseInt(serviceId));
         setSingleDetail(foundDetails)
-    }, [details])
+    }, [details, serviceId])
 
 
     return (
