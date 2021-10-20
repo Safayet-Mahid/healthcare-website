@@ -28,6 +28,7 @@ const useFirebase = () => {
             return;
         }
         isLogin ? processLogin(email, password) : registerNewUser(email, password)
+        // console.log(email, password);
     }
     const processLogin = (e) => {
         e.preventDefault();

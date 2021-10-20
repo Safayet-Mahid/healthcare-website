@@ -9,8 +9,6 @@ const Departments = () => {
             .then(res => res.json())
             .then(data => setDepartments(data))
     }, []);
-    console.log(departments)
-
     return (
         <div>
             <h2 className='text-center my-3'>Our Departments</h2>
