@@ -29,13 +29,13 @@ const Login = () => {
                     <div className="row mb-3">
                         <label htmlFor="inputEmail3" className="col-sm-2 col-form-label">Email</label>
                         <div className="col-sm-10">
-                            <input type="email" onBlur={handleEmailChange} className="form-control w-50" placeholder='Your Email' required id="inputEmail3" />
+                            <input type="email" onBlur={handleEmailChange} className="form-control w-75" placeholder='Your Email' required id="inputEmail3" />
                         </div>
                     </div>
                     <div className="row mb-3">
                         <label htmlFor="inputPassword3" className="col-sm-2 col-form-label">Password</label>
                         <div className="col-sm-10">
-                            <input type="password" onBlur={handlePasswordChange} className="form-control w-50 " placeholder='Your Password' required id="inputPassword3" />
+                            <input type="password" onBlur={handlePasswordChange} className="form-control w-75 " placeholder='Your Password' required id="inputPassword3" />
                         </div>
                     </div>
 
